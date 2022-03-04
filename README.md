@@ -5,4 +5,4 @@
 ###edit
 
 ## Every purchase lowers total stock
-* drinks measured in ml
+* drinks measured in mlm
