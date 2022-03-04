@@ -1,0 +1,24 @@
+{
+  "name": "pub_exercise",
+  "version": "1.0.0",
+  "description": "* drinks measured in ml",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManneWas/pub_exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManneWas/pub_exercise/issues"
+  },
+  "homepage": "https://github.com/ManneWas/pub_exercise#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
